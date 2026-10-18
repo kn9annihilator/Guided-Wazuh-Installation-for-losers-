@@ -5,8 +5,6 @@
 **Original lab:** Kali Linux VM (`trooper`) in VirtualBox; Windows host with a Wazuh Agent  
 **Purpose:** A reproducible start-to-finish guide, including the mistakes encountered in the original installation, the verified fixes, health checks, and the Windows-agent networking plan.
 
-> **Scope and honesty note:** This runbook consolidates the retrievable troubleshooting history and the commands/results preserved from the conversations. It includes all confirmed technical issues available to me, but it cannot guarantee a verbatim transcript of every message from every past chat. Any step marked **not yet verified** was discussed/planned but the available history does not prove it was completed.
-
 ---
 
 ## 1. The important lesson before starting
